@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+# tmp
+.vscode/
+build/
+devel/
+install/
+log/
+logs/
